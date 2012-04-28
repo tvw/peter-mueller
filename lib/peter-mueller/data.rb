@@ -1,0 +1,23 @@
+module PeterMueller
+  FIRSTNAMES_MALE = []
+  FIRSTNAMES_FEMALE = []
+  LASTNAMES = []
+  STREETS = []
+  TOWNS = []
+  MOBILE_PREFIXES = []
+
+  def self.loaddata(konst, filename)
+    fullpath = File.join(File.dirname(__FILE__), "data", filename)
+    File.open(fullpath, "r").each_line do |s|
+      konst << s.strip unless s.strip =~ /\A\s*\z/
+    end
+  end
+
+  # Ladies first:
+  loaddata(FIRSTNAMES_FEMALE, 'vornamen_frauen.txt')
+  loaddata(FIRSTNAMES_MALE, 'vornamen_maenner.txt')
+  loaddata(LASTNAMES, 'nachnamen.txt')
+  loaddata(STREETS, 'strassen.txt')
+  loaddata(TOWNS, 'orte.txt')
+  loaddata(MOBILE_PREFIXES, 'mobilvorwahlen.txt')
+end
