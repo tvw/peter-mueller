@@ -5,6 +5,8 @@ module PeterMueller
   STREETS = []
   TOWNS = []
   MOBILE_PREFIXES = []
+  FREEMAIL_PROVIDER = []
+  TLD = ["de", "com", "net", "org", "biz", "info", "name"]
 
   def self.loaddata(konst, filename)
     fullpath = File.join(File.dirname(__FILE__), "data", filename)
@@ -20,4 +22,5 @@ module PeterMueller
   loaddata(STREETS, 'strassen.txt')
   loaddata(TOWNS, 'orte.txt')
   loaddata(MOBILE_PREFIXES, 'mobilvorwahlen.txt')
+  loaddata(FREEMAIL_PROVIDER, 'freemail_provider.txt')
 end

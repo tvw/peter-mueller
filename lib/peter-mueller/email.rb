@@ -1,0 +1,65 @@
+# -*- encoding: utf-8 -*-
+module PeterMueller
+
+  class Email
+    attr_accessor :user, :host
+
+    def initialize(person = Person.new, owndomain = (rand(1..50) == 2))
+      if owndomain
+        @user = [
+                 user_from_names(person),
+                 user_from_firstname(person, ""),
+                 user_from_initials(person, ""),
+                ].sample
+
+        @host = [
+                 user_from_names(person),
+                 TLD.sample,
+                ].join(".")
+      else
+        @user = [
+                 user_from_names(person),
+                 user_from_firstname(person),
+                 user_from_initials(person),
+                ].sample
+
+        @host = FREEMAIL_PROVIDER.sample
+      end
+    end
+
+    def to_s
+      "#{@user}@#{@host}"
+    end
+
+    private
+    def user_from_names(person, sepchar=["","_","."].sample)
+      part1 = umlautfix(person.firstname).gsub(/[^a-zA-Z]/,"").downcase
+      part2 = umlautfix(person.lastname).gsub(/[^a-zA-Z]/,"").downcase
+      "#{part1}#{sepchar}#{part2}"
+    end
+
+    def user_from_firstname(person, number = rand(1..9999).to_s)
+      part = umlautfix(person.firstname).gsub(/[^a-zA-Z]/,"").downcase
+      "#{part}#{number}"
+    end
+
+    def user_from_initials(person, number = rand(1..9999).to_s)
+      part1 = umlautfix(person.firstname).gsub(/[^a-zA-Z]/,"").downcase
+      part2 = umlautfix(person.lastname).gsub(/[^a-zA-Z]/,"").downcase
+      "#{part1[0]}#{part2[0]}#{number}"
+    end
+
+    def umlautfix(str)
+      str.
+        gsub("ä","ae").
+        gsub("ö","oe").
+        gsub("ü","ue").
+        gsub("Ä","Ae").
+        gsub("Ö","Oe").
+        gsub("Ü","Ue").
+        gsub("ß","ss")
+    end
+
+  end
+
+end

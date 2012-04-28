@@ -1,8 +1,8 @@
 module PeterMueller
 
   class Person
-    attr_reader :sex, :firstname, :lastname, :address, :phonenumber, :mobile
-    attr_accessor :officenumber
+    attr_reader :sex, :firstname, :lastname, :address, :phonenumber, :mobile, :email
+    attr_accessor :office_phonenumber, :office_email
 
     def initialize
       @sex = ['f','m'].sample
@@ -19,7 +19,8 @@ module PeterMueller
 
       @phonenumber = Phonenumber.new(@address.phone_prefix) if rand(1..100) > 10
       @mobile = Phonenumber.mobile if rand(1..100) > 20
-      @officenumber = nil?
+
+      @email = Email.new(self) if rand(1..100) > 35
     end
 
   end

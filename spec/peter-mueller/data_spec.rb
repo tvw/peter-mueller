@@ -55,3 +55,12 @@ describe "MOBILE_PREFIXES" do
   its(:first){ should == "1510"}
   its(:last){ should == "179"}
 end
+
+describe "FREEMAIL_PROVIDER" do
+  subject{ FREEMAIL_PROVIDER }
+  
+  it{ should be_a Array }
+  its(:length){ should == 8 }
+  its(:first){ should == "aol.de"}
+  its(:last){ should == "web.de"}
+end
