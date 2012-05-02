@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    peter-mueller (0.0.0)
+    peter-mueller (1.0.0)
 
 GEM
   remote: http://rubygems.org/
