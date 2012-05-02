@@ -1,5 +1,7 @@
 = PeterMueller
 
+{<img src="https://secure.travis-ci.org/tvw/peter-mueller.png?branch=master" alt="Build Status" />}[http://travis-ci.org/tvw/peter-mueller]
+
 PeterMueller is a library for creating fictitious German address data. Though
 pure fictitious, the address data look very real. The data is based on the
 most used firstnames, lastnames, towns, streets etc. in Germany.
