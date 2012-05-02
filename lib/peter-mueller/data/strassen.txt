@@ -1,1000 +1,1000 @@
-HAUPTSTR.
-DORFSTR.
-BAHNHOFSTR.
-GARTENSTR.
-SCHULSTR.
-BERGSTR.
-LINDENSTR.
-RINGSTR.
-GOETHESTR.
-SCHILLERSTR.
-WALDSTR.
-KIRCHSTR.
-BERLINER STR.
-JAHNSTR.
-LANGE STR.
-BIRKENWEG
-FELDSTR.
-MUEHLENSTR.
-MOZARTSTR.
-BRESLAUER STR.
-WIESENSTR.
-TALSTR.
-BEETHOVENSTR.
-ROSENSTR.
-FRIEDRICH-EBERT-STR.
-FRIEDRICHSTR.
-BLUMENSTR.
-KOENIGSBERGER STR.
-WILHELMSTR.
-BACHSTR.
-SCHLOSSSTR.
-ROEMERSTR.
-MITTELSTR.
-LESSINGSTR.
-BRUNNENSTR.
-BISMARCKSTR.
-SCHUETZENSTR.
-UHLANDSTR.
-POSTSTR.
-BURGSTR.
-DANZIGER STR.
-FRIEDHOFSTR.
-MARKTSTR.
-AMSELWEG
-PARKSTR.
-BUCHENWEG
-NEUE STR.
-KARLSTR.
-RHEINSTR.
-BIRKENSTR.
-EICHENDORFFSTR.
-AHORNWEG
-MARIENSTR.
-LEIPZIGER STR.
-SUDETENSTR.
-FRANKFURTER STR.
-RAIFFEISENSTR.
-FINKENWEG
-HOCHSTR.
-NORDSTR.
-STETTINER STR.
-AUGUST-BEBEL-STR.
-RICHARD-WAGNER-STR.
-MUEHLENWEG
-FRIEDENSSTR.
-EICHENWEG
-FRIEDENSTR.
-LUDWIGSTR.
-PESTALOZZISTR.
-KAISERSTR.
-ALBERT-SCHWEITZER-STR.
-RATHAUSSTR.
-HEINRICH-HEINE-STR.
-SONNENSTR.
-KARL-MARX-STR.
-LINDENWEG
-ROBERT-KOCH-STR.
-SUEDSTR.
-TANNENWEG
-WIESENWEG
-EICHENSTR.
-ERLENWEG
-SCHUBERTSTR.
-SEESTR.
-KANTSTR.
-STEINSTR.
-BREITE STR.
-MARKTPLATZ
-LERCHENWEG
-ROSENWEG
-KOLPINGSTR.
-GERHART-HAUPTMANN-STR.
-KREUZSTR.
-DROSSELWEG
-HINDENBURGSTR.
-GRUENER WEG
-KAPELLENSTR.
-BRUECKENSTR.
-ORTSSTR.
-WEINBERGSTR.
-ZEPPELINSTR.
-MUEHLSTR.
-AHORNSTR.
-INDUSTRIESTR.
-THEODOR-HEUSS-STR.
-FRANKENSTR.
-ERNST-THAELMANN-STR.
-FLURSTR.
-GESCHWISTER-SCHOLL-STR.
-GUTENBERGSTR.
-KOELNER STR.
-LUISENSTR.
-AM SPORTPLATZ
-KLOSTERSTR.
-OSTSTR.
-KIEFERNWEG
-FASANENWEG
-KOENIGSTR.
-MARKT
-KIRCHWEG
-HEIDEWEG
-HUMBOLDTSTR.
-JAEGERSTR.
-GRABENSTR.
-BUCHENSTR.
-MEISENWEG
-SIEDLUNG
-STR. DES FRIEDENS
-FLIEDERWEG
-KASTANIENWEG
-LERCHENSTR.
-STEINWEG
-MARTIN-LUTHER-STR.
-RUDOLF-BREITSCHEID-STR.
-GARTENWEG
-TULPENWEG
-WESTSTR.
-DRESDENER STR.
-LINDENALLEE
-HERMANNSTR.
-KONRAD-ADENAUER-STR.
-MUEHLWEG
-FORSTSTR.
-ALTE DORFSTR.
-FRUEHLINGSTR.
-SCHWARZWALDSTR.
-HOHE STR.
-MOLTKESTR.
-WALDWEG
-AM ANGER
-TULPENSTR.
-HEIDESTR.
-TAUNUSSTR.
-NELKENSTR.
-HERMANN-LOENS-STR.
-MOERIKESTR.
-ULMENWEG
-AM HANG
-MITTELWEG
-ESCHENWEG
-ULMENSTR.
-IM WINKEL
-EISENBAHNSTR.
-HAYDNSTR.
-KURT-SCHUMACHER-STR.
-KARL-LIEBKNECHT-STR.
-KIRCHGASSE
-BAHNSTR.
-HEINRICHSTR.
-NEUER WEG
-HERDERSTR.
-HOELDERLINSTR.
-NEUSTR.
-ROENTGENSTR.
-NELKENWEG
-SANDSTR.
-TANNENSTR.
-KAPELLENWEG
-MAX-PLANCK-STR.
-GINSTERWEG
-MAINZER STR.
-FICHTENSTR.
-HUBERTUSSTR.
-AKAZIENWEG
-KIRCHPLATZ
-AM BAHNHOF
-SUEDRING
-SCHWALBENWEG
-FICHTENWEG
-SAARSTR.
-TEICHSTR.
-OBERSTR.
-HOEHENWEG
-HAENDELSTR.
-HEERSTR.
-FREIHERR-VOM-STEIN-STR.
-KAMPSTR.
-WEIHERSTR.
-FINKENSTR.
-HOEHENSTR.
-IM WIESENGRUND
-STR. DER EINHEIT
-WEBERSTR.
-LAERCHENWEG
-SCHULWEG
-FALKENSTR.
-KARLSBADER STR.
-NORDRING
-STUTTGARTER STR.
-BRANDENBURGER STR.
-KASTANIENALLEE
-NUERNBERGER STR.
-BREMER STR.
-ADLERSTR.
-FRIEDRICH-ENGELS-STR.
-PANORAMASTR.
-BRAHMSSTR.
-SILCHERSTR.
-LIEBIGSTR.
-SCHLESIERSTR.
-ROSA-LUXEMBURG-STR.
-DUERERSTR.
-ADALBERT-STIFTER-STR.
-SIEMENSSTR.
-ALTE STR.
-HOLUNDERWEG
-KAETHE-KOLLWITZ-STR.
-KIRCHENSTR.
-MUENCHENER STR.
-BLUECHERSTR.
-ERLENSTR.
-THOMAS-MANN-STR.
-AUSTR.
-MOSELSTR.
-ELISABETHSTR.
-DUESSELDORFER STR.
-PAPPELWEG
-HOHENZOLLERNSTR.
-SONNENWEG
-FLIEDERSTR.
-KETTELERSTR.
-LILIENSTR.
-FICHTESTR.
-SANDWEG
-WESTRING
-KOERNERSTR.
-FRITZ-REUTER-STR.
-KEPLERSTR.
-ALBRECHT-DUERER-STR.
-AUGSBURGER STR.
-ARNDTSTR.
-OBERDORFSTR.
-KLEISTSTR.
-ALEMANNENSTR.
-DAMMSTR.
-AACHENER STR.
-WALLSTR.
-AM MARKT
-HAMBURGER STR.
-SCHUMANNSTR.
-SIEDLERSTR.
-HANS-BOECKLER-STR.
-JOHANNESSTR.
-WESERSTR.
-ASTERNWEG
-TRIERER STR.
-KURFUERSTENSTR.
-WEIDENWEG
-FELDBERGSTR.
-EINSTEINSTR.
-STR. DER JUGEND
-MUENSTERSTR.
-ACKERSTR.
-MAGDEBURGER STR.
-FALKENWEG
-JOHANN-SEBASTIAN-BACH-STR.
-GABELSBERGERSTR.
-NECKARSTR.
-TURMSTR.
-FASANENSTR.
-KURZE STR.
-WEIDENSTR.
-KANALSTR.
-BADSTR.
-QUERSTR.
-RITTERSTR.
-UFERSTR.
-BRUEHLSTR.
-SIEDLUNGSSTR.
-VIRCHOWSTR.
-LUTHERSTR.
-KOPERNIKUSSTR.
-LANDSTR.
-SCHEFFELSTR.
-WEINSTR.
-WILHELM-BUSCH-STR.
-THEODOR-STORM-STR.
-DAIMLERSTR.
-BRUCHSTR.
-LORTZINGSTR.
-THOMAS-MUENTZER-STR.
-BRUCKNERSTR.
-POTSDAMER STR.
-GRENZSTR.
-TILSITER STR.
-CLARA-ZETKIN-STR.
-FROEBELSTR.
-DAHLIENWEG
-WACHOLDERWEG
-ZIEGELSTR.
-SCHLEHENWEG
-TRIFTSTR.
-STARENWEG
-JOSEFSTR.
-CHEMNITZER STR.
-OSTLANDSTR.
-AM BERG
-DRESDNER STR.
-ROTDORNWEG
-BOGENSTR.
-LEIBNIZSTR.
-WAGNERSTR.
-OTTO-HAHN-STR.
-KELTENSTR.
-ODENWALDSTR.
-BODELSCHWINGHSTR.
-ALTE POSTSTR.
-SPESSARTSTR.
-ERFURTER STR.
-WIELANDSTR.
-DIESELSTR.
-GOERLITZER STR.
-HOFSTR.
-OSTPREUSSENSTR.
-GROSSE STR.
-VEILCHENWEG
-MAINSTR.
-NIBELUNGENSTR.
-WILHELM-LEUSCHNER-STR.
-FRIESENSTR.
-KATHARINENSTR.
-KOBLENZER STR.
-WUERZBURGER STR.
-FONTANESTR.
-HOLBEINSTR.
-STAUFFENBERGSTR.
-DAMASCHKESTR.
-MARTINSTR.
-HEINESTR.
-BRUNNENWEG
-SCHMIEDESTR.
-OBERGASSE
-ROSTOCKER STR.
-ALTE LANDSTR.
-THUERINGER STR.
-SOPHIENSTR.
-HEGELSTR.
-MUENCHNER STR.
-POMMERNSTR.
-DONAUSTR.
-LUDWIG-THOMA-STR.
-AUGUSTASTR.
-BERTOLT-BRECHT-STR.
-HANS-SACHS-STR.
-ALTER POSTWEG
-SCHOENE AUSSICHT
-OTTOSTR.
-ANGERSTR.
-BLEICHSTR.
-ALLEESTR.
-LILIENWEG
-MANNHEIMER STR.
-SIEGFRIEDSTR.
-GRUENSTR.
-STERNSTR.
-FORSTWEG
-OSTRING
-KASSELER STR.
-STRESEMANNSTR.
-HINTERGASSE
-FISCHERSTR.
-RHOENSTR.
-VIKTORIASTR.
-LUITPOLDSTR.
-LANGGASSE
-MAXIMILIANSTR.
-FREILIGRATHSTR.
-WIESENGRUND
-LEOPOLDSTR.
-REGENSBURGER STR.
-BURGWEG
-WEISSDORNWEG
-MUEHLGASSE
-CHARLOTTENSTR.
-WESTENDSTR.
-AMSELSTR.
-GEORGSTR.
-SAARBRUECKER STR.
-BERLINER RING
-ANNASTR.
-LUEBECKER STR.
-GRENZWEG
-AKAZIENSTR.
-AUF DER HEIDE
-OBERE DORFSTR.
-AM WEINBERG
-ODERSTR.
-AM SONNENHANG
-LANDSBERGER STR.
-DARMSTAEDTER STR.
-FABRIKSTR.
-GNEISENAUSTR.
-DIETRICH-BONHOEFFER-STR.
-PFARRGASSE
-WERDERSTR.
-HAFENSTR.
-SCHARNHORSTSTR.
-JAKOBSTR.
-SCHWARZER WEG
-KIELER STR.
-NACHTIGALLENWEG
-ADOLF-KOLPING-STR.
-ELSA-BRAENDSTROEM-STR.
-UNTERE DORFSTR.
-BIRKENALLEE
-GAERTNERSTR.
-HEBELSTR.
-ERICH-WEINERT-STR.
-BONNER STR.
-RATHENAUSTR.
-SACHSENSTR.
-RIEDSTR.
-JOHANNISSTR.
-HECKENWEG
-BLUMENWEG
-CHAUSSEESTR.
-ALBERT-EINSTEIN-STR.
-LAERCHENSTR.
-NEUSTAEDTER STR.
-HAINSTR.
-BERGWEG
-LIEGNITZER STR.
-HAUFFSTR.
-HANNOVERSCHE STR.
-MARIENBURGER STR.
-IM GRUND
-LILIENTHALSTR.
-SEDANSTR.
-BARBARASTR.
-HEIDELBERGER STR.
-ZIEGELEISTR.
-KASTANIENSTR.
-KREISSTR.
-REICHENBERGER STR.
-MARKGRAFENSTR.
-NEUGASSE
-BAYERNSTR.
-HUEGELSTR.
-HANSASTR.
-HERZOGSTR.
-LAHNSTR.
-EISENACHER STR.
-KIRCHBERG
-ALEXANDERSTR.
-HARDTSTR.
-GERBERSTR.
-ROONSTR.
-HOHENSTAUFENSTR.
-PFARRSTR.
-ZUGSPITZSTR.
-WEIMARER STR.
-UNTERGASSE
-HERRENSTR.
-SCHWERINER STR.
-STR. DER FREUNDSCHAFT
-AUF DER HOEHE
-WOERTHSTR.
-AUENSTR.
-KOLBERGER STR.
-DORFPLATZ
-AM WASSERTURM
-HOSPITALSTR.
-DEICHSTR.
-OBERDORF
-HAGENER STR.
-KIRCHENWEG
-REMBRANDTSTR.
-WASSERSTR.
-ROBERT-BOSCH-STR.
-HOHLWEG
-SPERBERWEG
-HERMANN-LOENS-WEG
-OBERE STR.
-TALWEG
-ZEISIGWEG
-SCHWALBENSTR.
-SIEDLERWEG
-WEINGARTENSTR.
-BUSSARDWEG
-KARLSRUHER STR.
-BUNDESSTR.
-POSTWEG
-TAUBENSTR.
-BONHOEFFERSTR.
-KRONENSTR.
-ALBRECHTSTR.
-FLORASTR.
-ELBESTR.
-FOEHRENWEG
-HEILBRONNER STR.
-NEUSSER STR.
-ULMER STR.
-THERESIENSTR.
-KREUZWEG
-GEIBELSTR.
-OBERE HAUPTSTR.
-HUETTENSTR.
-FRIEDHOFSWEG
-POSENER STR.
-GOERDELERSTR.
-ALBSTR.
-ALPENSTR.
-ANTONIUSSTR.
-DAHLIENSTR.
-HAGENSTR.
-KREFELDER STR.
-WORMSER STR.
-PETERSTR.
-OSTERSTR.
-EIBENWEG
-MARGARETENSTR.
-HALDENSTR.
-ALLENSTEINER STR.
-AN DER KIRCHE
-RATHAUSPLATZ
-HARDENBERGSTR.
-SCHLESISCHE STR.
-IM DORFE
-ANNE-FRANK-STR.
-SAARLANDSTR.
-BAMBERGER STR.
-KREUZBERGSTR.
-THEODOR-KOERNER-STR.
-ULRICHSTR.
-SONNENHALDE
-WICHERNSTR.
-MARBURGER STR.
-AM BAHNDAMM
-FORSTHAUSSTR.
-VOGELSANGSTR.
-ALTER WEG
-DETMOLDER STR.
-HOHER WEG
-UNTERE HAUPTSTR.
-WINDMUEHLENSTR.
-IM BRUEHL
-KORNSTR.
-YORCKSTR.
-MELANCHTHONSTR.
-ROLANDSTR.
-TRIFTWEG
-EIFELSTR.
-PLATANENSTR.
-SALZSTR.
-MEMELER STR.
-BIELEFELDER STR.
-AM MUEHLENBERG
-BOCHUMER STR.
-GANGHOFERSTR.
-OLDENBURGER STR.
-HIRSCHSTR.
-DOROTHEENSTR.
-HOLZSTR.
-WESTERWALDSTR.
-HOLZWEG
-NEUSTADT
-SIEDLUNGSWEG
-BACHGASSE
-VOGESENSTR.
-AM KIRCHBERG
-STRASSBURGER STR.
-GRUNDSTR.
-BRUNNENGASSE
-KIEFERNSTR.
-AM WEIHER
-LANDWEHRSTR.
-SCHWABENSTR.
-BEBELSTR.
-ROEMERWEG
-MOORWEG
-HEBBELSTR.
-TIERGARTENSTR.
-ELBINGER STR.
-MEISENSTR.
-ESCHENSTR.
-FRANZ-SCHUBERT-STR.
-GIESSENER STR.
-WALDENBURGER STR.
-HERMANN-HESSE-STR.
-STADTWEG
-IN DER AU
-WITTENBERGER STR.
-ALBERTSTR.
-GLEIWITZER STR.
-DUISBURGER STR.
-BORNGASSE
-ZWICKAUER STR.
-AM GRABEN
-RUBENSSTR.
-UNTERDORF
-HILDESHEIMER STR.
-AM BACH
-BORNSTR.
-TOEPFERSTR.
-SPORTPLATZSTR.
-JENAER STR.
-BERLINER ALLEE
-ADOLFSTR.
-UNTERDORFSTR.
-NARZISSENWEG
-SCHLEISSHEIMER STR.
-HIRTENWEG
-GRUENEWALDSTR.
-MATHILDENSTR.
-GEORGENSTR.
-GAUSSSTR.
-WESTFALENSTR.
-ALTE SCHULSTR.
-KIEBITZWEG
-ROSENHEIMER STR.
-BREITSCHEIDSTR.
-SPEYERER STR.
-KELTERSTR.
-BREITER WEG
-QUELLENWEG
-BEHRINGSTR.
-MAX-EYTH-STR.
-PARKWEG
-BERGMANNSTR.
-SCHLOSSBERGSTR.
-KORNBLUMENWEG
-BAECKERSTR.
-MINDENER STR.
-GOTENSTR.
-CARL-VON-OSSIETZKY-STR.
-FUCHSWEG
-AM WALD
-WINKELSTR.
-RUDOLFSTR.
-STEPHANSTR.
-VOGELSBERGSTR.
-UNTERSTR.
-LUENEBURGER STR.
-VENLOER STR.
-FRIEDRICH-LIST-STR.
-OLGASTR.
-GEWERBESTR.
-WESELER STR.
-ERNST-REUTER-STR.
-BUEHLSTR.
-LENAUSTR.
-KIRCHBERGSTR.
-OSNABRUECKER STR.
-MUEHLBACHSTR.
-SCHAEFERSTR.
-AM RING
-FEUERBACHSTR.
-JOHANNES-R.-BECHER-STR.
-MECKLENBURGER STR.
-HALDENWEG
-WIESBADENER STR.
-WILHELM-RAABE-STR.
-BRAUNSCHWEIGER STR.
-STORMSTR.
-WALTHER-RATHENAU-STR.
-FELDWEG
-FRANZ-MEHRING-STR.
-ZIEGELEIWEG
-BRUEDERSTR.
-LIMBURGER STR.
-SOMMERSTR.
-BUSCHSTR.
-BERNHARDSTR.
-AM SEE
-STRALSUNDER STR.
-KIRCHHEIMER STR.
-LUETZOWSTR.
-OSTENDSTR.
-IM VOGELSANG
-BARBAROSSASTR.
-DROSSELSTR.
-SAUERBRUCHSTR.
-ELISABETHENSTR.
-BENZSTR.
-PLATANENWEG
-AM WIESENGRUND
-BUSSARDSTR.
-VOGELSANG
-SPERBERSTR.
-SCHELLINGSTR.
-BOEHMERWALDSTR.
-HOHLSTR.
-LOENSWEG
-MUELLERSTR.
-HORSTER STR.
-SCHLESIENSTR.
-PROVINZIALSTR.
-LANGE GASSE
-DROSTE-HUELSHOFF-STR.
-ST.-GEORG-STR.
-MAX-REGER-STR.
-HELLWEG
-AMALIENSTR.
-LOTHRINGER STR.
-ERNST-MORITZ-ARNDT-STR.
-CRANACHSTR.
-WINDMUEHLENWEG
-HEUWEG
-WITTELSBACHERSTR.
-BRINKSTR.
-WIENER STR.
-FREIBURGER STR.
-MAUERSTR.
-UNTER DEN EICHEN
-HANAUER STR.
-AM PARK
-ESSENER STR.
-KAROLINGERSTR.
-SCHOPENHAUERSTR.
-LOHSTR.
-PUSCHKINSTR.
-GOEBENSTR.
-LOENSSTR.
-DORTMUNDER STR.
-HANGSTR.
-STIFTSTR.
-DESSAUER STR.
-LANDSHUTER STR.
-AM STEINBERG
-DUERENER STR.
-MAXIM-GORKI-STR.
-BUELOWSTR.
-RILKESTR.
-QUELLENSTR.
-WITTEKINDSTR.
-ORANIENSTR.
-MAERKISCHE STR.
-ALTE BAHNHOFSTR.
-SCHLOSSGASSE
-VEILCHENSTR.
-AUWEG
-FLENSBURGER STR.
-HINTER DEN HOEFEN
-HALLESCHE STR.
-HELMHOLTZSTR.
-WINGERTSTR.
-RUHRSTR.
-MEMELSTR.
-TANNENBERGSTR.
-DORSTENER STR.
-KELLERSTR.
-ISARSTR.
-WEIHERWEG
-BAUMGARTENSTR.
-LUXEMBURGER STR.
-AM TEICH
-LINDENPLATZ
-LISZTSTR.
-FRANZSTR.
-TECKSTR.
-SPITALSTR.
-EBERTSTR.
-LUDWIG-JAHN-STR.
-AM MUEHLBERG
-RUDOLF-DIESEL-STR.
-LAURENTIUSSTR.
-HANS-THOMA-STR.
-SPITZWEGSTR.
-HUBERTUSWEG
-ERZBERGERSTR.
-BRUEDER-GRIMM-STR.
-DACHAUER STR.
-REICHSSTR.
-JUELICHER STR.
-SCHULGASSE
-WERNER-SEELENBINDER-STR.
-SCHLESIERWEG
-STEINGASSE
-SEEWEG
-EBERHARDSTR.
-POMMERNWEG
-RUECKERTSTR.
-SCHWABSTR.
-UNTERE STR.
-ROSEGGERSTR.
-GLATZER STR.
-MICHAELSTR.
-HELENENSTR.
-BUERGERSTR.
-SEMMELWEISSTR.
-HIRTENSTR.
-GRUENE STR.
-PAULINENSTR.
-HEDWIGSTR.
-AM STADTPARK
-REICHENBACHER STR.
-KRANKENHAUSSTR.
-URBANSTR.
-PARACELSUSSTR.
-NEUE SIEDLUNG
-BACHWEG
-ALTE HEERSTR.
-MUEHLENBERG
-PAPPELSTR.
-ANEMONENWEG
-AM SANDBERG
-GOTTFRIED-KELLER-STR.
-ROTHENBURGER STR.
-INGOLSTAEDTER STR.
-KAROLINENSTR.
-PANORAMAWEG
-HANSJAKOBSTR.
-STEUBENSTR.
-HOCHFELDSTR.
-SALZBURGER STR.
-NIKOLAUSSTR.
-SUEDERSTR.
-FRIEDRICH-LUDWIG-JAHN-STR.
-MEROWINGERSTR.
-GLUECK-AUF-STR.
-GLADBACHER STR.
-ANDREASSTR.
-HOPFENSTR.
-RINGWEG
-ROSENGASSE
-PFORZHEIMER STR.
-PRINZENSTR.
-AHORNALLEE
-SCHUETZENWEG
-KLOSTERWEG
-ADENAUERSTR.
-AM MUEHLBACH
-BAYREUTHER STR.
-HUFELANDSTR.
-ST.-MARTIN-STR.
-KEMPTENER STR.
-HABICHTSTR.
-PAUL-GERHARDT-STR.
-RICHARD-STRAUSS-STR.
-TEICHWEG
-STAUFENSTR.
-ANGER
-DAMMWEG
-FLURWEG
-GORCH-FOCK-STR.
-ALTENBURGER STR.
-CELLER STR.
-PAPPELALLEE
-RIEDWEG
-SEBASTIANSTR.
-WITTENER STR.
-OHMSTR.
-ASTERNSTR.
-JOHANN-STRAUSS-STR.
-FRIEDRICH-NAUMANN-STR.
-RECHBERGSTR.
-ROCHUSSTR.
-VON-GALEN-STR.
-AM WALDRAND
-UNTER DEN LINDEN
-FOEHRENSTR.
-EGERLAENDER STR.
-EICHENDORFFWEG
-KRONPRINZENSTR.
-STRANDSTR.
-BRUCHWEG
-BRENTANOSTR.
-PAULSTR.
-GREIFSWALDER STR.
-AM SUEDHANG
-FRANKENWEG
-EGERLANDSTR.
-BUNSENSTR.
-DACHSWEG
-HAMMER STR.
-FREIBERGER STR.
-HOCHWALDSTR.
-GERMANENSTR.
-AM FRIEDHOF
-AUGUSTENSTR.
-MENDELSSOHNSTR.
-TALBLICK
-ELSTERWEG
-KLOPSTOCKSTR.
-JOSEPH-HAYDN-STR.
-EICHENALLEE
-MUELHEIMER STR.
-WINDTHORSTSTR.
-GUSTAV-ADOLF-STR.
-WEISSENBURGER STR.
-KROKUSWEG
-DIESTERWEGSTR.
-EGERSTR.
-HINTERSTR.
-EDELWEISSSTR.
-ANGERWEG
-LANGE REIHE
-SCHLOSSBERG
-DR.-WILHELM-KUELZ-STR.
-GLUECKAUFSTR.
-TURNERSTR.
-WENDELSTEINSTR.
-TORSTR.
-GLOCKENSTR.
-BLUETENSTR.
-JOHANNITERSTR.
-ASCHAFFENBURGER STR.
-KLAUS-GROTH-STR.
-BAHNWEG
-AM STEINBRUCH
-LANDHAUSSTR.
-FRIEDLANDSTR.
-NORDERSTR.
-WERKSTR.
-KONRADSTR.
-BAUMSCHULENWEG
-WEHRSTR.
-TAUBENWEG
-INSELSTR.
-FAEHRSTR.
-FRIEDRICH-WILHELM-STR.
-PRAGER STR.
-ZOLLSTR.
-GLUCKSTR.
-MERSEBURGER STR.
-LANGSTR.
-WILHELM-PIECK-STR.
-LEUSCHNERSTR.
-BERTHA-VON-SUTTNER-STR.
-FUERTHER STR.
-HABICHTWEG
-METZER STR.
-FAERBERSTR.
-ALTE HAUPTSTR.
-ENZIANSTR.
-RICARDA-HUCH-STR.
-HEIMSTR.
-KNAPPENSTR.
-KAISER-FRIEDRICH-STR.
-SANDDORNWEG
-AUGUSTSTR.
-MOERSER STR.
-GELLERTSTR.
-NAUMBURGER STR.
-FLORIAN-GEYER-STR.
-SCHMIEDGASSE
-LANDAUER STR.
-REGERSTR.
-FRANZ-LISZT-STR.
-JAEGERWEG
-ANSBACHER STR.
-HINTER DEN GAERTEN
-TIROLER STR.
-TUEBINGER STR.
-ELSAESSER STR.
-MOORSTR.
-EINTRACHTSTR.
-PARISER STR.
-KRUMME STR.
-REUTERSTR.
-FISCHERGASSE
-HASELWEG
-MARDERWEG
-SACHSENRING
-HOFER STR.
-BAUSTR.
-KARWENDELSTR.
-IM TAL
-HESSENSTR.
-WELFENSTR.
-PASSAUER STR.
-AN DER BAHN
-SONNENHANG
-AM WALL
-BRAHMSWEG
-ESCHSTR.
-MARIENPLATZ
-RICHTHOFENSTR.
-AM GALGENBERG
-SONNENBERGSTR.
-MAYBACHSTR.
-SEILERSTR.
-HERBSTSTR.
-BERGHEIMER STR.
-ECKSTR.
-CLEMENSSTR.
-GERANIENWEG
-JULIUS-LEBER-STR.
-GRUBENSTR.
-NEUMARKT
+Hauptstr.
+Dorfstr.
+Bahnhofstr.
+Gartenstr.
+Schulstr.
+Bergstr.
+Lindenstr.
+Ringstr.
+Goethestr.
+Schillerstr.
+Waldstr.
+Kirchstr.
+Berliner Str.
+Jahnstr.
+Lange Str.
+Birkenweg
+Feldstr.
+Muehlenstr.
+Mozartstr.
+Breslauer Str.
+Wiesenstr.
+Talstr.
+Beethovenstr.
+Rosenstr.
+Friedrich-Ebert-Str.
+Friedrichstr.
+Blumenstr.
+Koenigsberger Str.
+Wilhelmstr.
+Bachstr.
+Schlossstr.
+Roemerstr.
+Mittelstr.
+Lessingstr.
+Brunnenstr.
+Bismarckstr.
+Schuetzenstr.
+Uhlandstr.
+Poststr.
+Burgstr.
+Danziger Str.
+Friedhofstr.
+Marktstr.
+Amselweg
+Parkstr.
+Buchenweg
+Neue Str.
+Karlstr.
+Rheinstr.
+Birkenstr.
+Eichendorffstr.
+Ahornweg
+Marienstr.
+Leipziger Str.
+Sudetenstr.
+Frankfurter Str.
+Raiffeisenstr.
+Finkenweg
+Hochstr.
+Nordstr.
+Stettiner Str.
+August-Bebel-Str.
+Richard-Wagner-Str.
+Muehlenweg
+Friedensstr.
+Eichenweg
+Friedenstr.
+Ludwigstr.
+Pestalozzistr.
+Kaiserstr.
+Albert-Schweitzer-Str.
+Rathausstr.
+Heinrich-Heine-Str.
+Sonnenstr.
+Karl-Marx-Str.
+Lindenweg
+Robert-Koch-Str.
+Suedstr.
+Tannenweg
+Wiesenweg
+Eichenstr.
+Erlenweg
+Schubertstr.
+Seestr.
+Kantstr.
+Steinstr.
+Breite Str.
+Marktplatz
+Lerchenweg
+Rosenweg
+Kolpingstr.
+Gerhart-Hauptmann-Str.
+Kreuzstr.
+Drosselweg
+Hindenburgstr.
+Gruener Weg
+Kapellenstr.
+Brueckenstr.
+Ortsstr.
+Weinbergstr.
+Zeppelinstr.
+Muehlstr.
+Ahornstr.
+Industriestr.
+Theodor-Heuss-Str.
+Frankenstr.
+Ernst-Thaelmann-Str.
+Flurstr.
+Geschwister-Scholl-Str.
+Gutenbergstr.
+Koelner Str.
+Luisenstr.
+Am Sportplatz
+Klosterstr.
+Oststr.
+Kiefernweg
+Fasanenweg
+Koenigstr.
+Markt
+Kirchweg
+Heideweg
+Humboldtstr.
+Jaegerstr.
+Grabenstr.
+Buchenstr.
+Meisenweg
+Siedlung
+Str. Des Friedens
+Fliederweg
+Kastanienweg
+Lerchenstr.
+Steinweg
+Martin-Luther-Str.
+Rudolf-Breitscheid-Str.
+Gartenweg
+Tulpenweg
+Weststr.
+Dresdener Str.
+Lindenallee
+Hermannstr.
+Konrad-Adenauer-Str.
+Muehlweg
+Forststr.
+Alte Dorfstr.
+Fruehlingstr.
+Schwarzwaldstr.
+Hohe Str.
+Moltkestr.
+Waldweg
+Am Anger
+Tulpenstr.
+Heidestr.
+Taunusstr.
+Nelkenstr.
+Hermann-Loens-Str.
+Moerikestr.
+Ulmenweg
+Am Hang
+Mittelweg
+Eschenweg
+Ulmenstr.
+Im Winkel
+Eisenbahnstr.
+Haydnstr.
+Kurt-Schumacher-Str.
+Karl-Liebknecht-Str.
+Kirchgasse
+Bahnstr.
+Heinrichstr.
+Neuer Weg
+Herderstr.
+Hoelderlinstr.
+Neustr.
+Roentgenstr.
+Nelkenweg
+Sandstr.
+Tannenstr.
+Kapellenweg
+Max-Planck-Str.
+Ginsterweg
+Mainzer Str.
+Fichtenstr.
+Hubertusstr.
+Akazienweg
+Kirchplatz
+Am Bahnhof
+Suedring
+Schwalbenweg
+Fichtenweg
+Saarstr.
+Teichstr.
+Oberstr.
+Hoehenweg
+Haendelstr.
+Heerstr.
+Freiherr-Vom-Stein-Str.
+Kampstr.
+Weiherstr.
+Finkenstr.
+Hoehenstr.
+Im Wiesengrund
+Str. Der Einheit
+Weberstr.
+Laerchenweg
+Schulweg
+Falkenstr.
+Karlsbader Str.
+Nordring
+Stuttgarter Str.
+Brandenburger Str.
+Kastanienallee
+Nuernberger Str.
+Bremer Str.
+Adlerstr.
+Friedrich-Engels-Str.
+Panoramastr.
+Brahmsstr.
+Silcherstr.
+Liebigstr.
+Schlesierstr.
+Rosa-Luxemburg-Str.
+Duererstr.
+Adalbert-Stifter-Str.
+Siemensstr.
+Alte Str.
+Holunderweg
+Kaethe-Kollwitz-Str.
+Kirchenstr.
+Muenchener Str.
+Bluecherstr.
+Erlenstr.
+Thomas-Mann-Str.
+Austr.
+Moselstr.
+Elisabethstr.
+Duesseldorfer Str.
+Pappelweg
+Hohenzollernstr.
+Sonnenweg
+Fliederstr.
+Kettelerstr.
+Lilienstr.
+Fichtestr.
+Sandweg
+Westring
+Koernerstr.
+Fritz-Reuter-Str.
+Keplerstr.
+Albrecht-Duerer-Str.
+Augsburger Str.
+Arndtstr.
+Oberdorfstr.
+Kleiststr.
+Alemannenstr.
+Dammstr.
+Aachener Str.
+Wallstr.
+Am Markt
+Hamburger Str.
+Schumannstr.
+Siedlerstr.
+Hans-Boeckler-Str.
+Johannesstr.
+Weserstr.
+Asternweg
+Trierer Str.
+Kurfuerstenstr.
+Weidenweg
+Feldbergstr.
+Einsteinstr.
+Str. Der Jugend
+Muensterstr.
+Ackerstr.
+Magdeburger Str.
+Falkenweg
+Johann-Sebastian-Bach-Str.
+Gabelsbergerstr.
+Neckarstr.
+Turmstr.
+Fasanenstr.
+Kurze Str.
+Weidenstr.
+Kanalstr.
+Badstr.
+Querstr.
+Ritterstr.
+Uferstr.
+Bruehlstr.
+Siedlungsstr.
+Virchowstr.
+Lutherstr.
+Kopernikusstr.
+Landstr.
+Scheffelstr.
+Weinstr.
+Wilhelm-Busch-Str.
+Theodor-Storm-Str.
+Daimlerstr.
+Bruchstr.
+Lortzingstr.
+Thomas-Muentzer-Str.
+Brucknerstr.
+Potsdamer Str.
+Grenzstr.
+Tilsiter Str.
+Clara-Zetkin-Str.
+Froebelstr.
+Dahlienweg
+Wacholderweg
+Ziegelstr.
+Schlehenweg
+Triftstr.
+Starenweg
+Josefstr.
+Chemnitzer Str.
+Ostlandstr.
+Am Berg
+Dresdner Str.
+Rotdornweg
+Bogenstr.
+Leibnizstr.
+Wagnerstr.
+Otto-Hahn-Str.
+Keltenstr.
+Odenwaldstr.
+Bodelschwinghstr.
+Alte Poststr.
+Spessartstr.
+Erfurter Str.
+Wielandstr.
+Dieselstr.
+Goerlitzer Str.
+Hofstr.
+Ostpreussenstr.
+Grosse Str.
+Veilchenweg
+Mainstr.
+Nibelungenstr.
+Wilhelm-Leuschner-Str.
+Friesenstr.
+Katharinenstr.
+Koblenzer Str.
+Wuerzburger Str.
+Fontanestr.
+Holbeinstr.
+Stauffenbergstr.
+Damaschkestr.
+Martinstr.
+Heinestr.
+Brunnenweg
+Schmiedestr.
+Obergasse
+Rostocker Str.
+Alte Landstr.
+Thueringer Str.
+Sophienstr.
+Hegelstr.
+Muenchner Str.
+Pommernstr.
+Donaustr.
+Ludwig-Thoma-Str.
+Augustastr.
+Bertolt-Brecht-Str.
+Hans-Sachs-Str.
+Alter Postweg
+Schoene Aussicht
+Ottostr.
+Angerstr.
+Bleichstr.
+Alleestr.
+Lilienweg
+Mannheimer Str.
+Siegfriedstr.
+Gruenstr.
+Sternstr.
+Forstweg
+Ostring
+Kasseler Str.
+Stresemannstr.
+Hintergasse
+Fischerstr.
+Rhoenstr.
+Viktoriastr.
+Luitpoldstr.
+Langgasse
+Maximilianstr.
+Freiligrathstr.
+Wiesengrund
+Leopoldstr.
+Regensburger Str.
+Burgweg
+Weissdornweg
+Muehlgasse
+Charlottenstr.
+Westendstr.
+Amselstr.
+Georgstr.
+Saarbruecker Str.
+Berliner Ring
+Annastr.
+Luebecker Str.
+Grenzweg
+Akazienstr.
+Auf Der Heide
+Obere Dorfstr.
+Am Weinberg
+Oderstr.
+Am Sonnenhang
+Landsberger Str.
+Darmstaedter Str.
+Fabrikstr.
+Gneisenaustr.
+Dietrich-Bonhoeffer-Str.
+Pfarrgasse
+Werderstr.
+Hafenstr.
+Scharnhorststr.
+Jakobstr.
+Schwarzer Weg
+Kieler Str.
+Nachtigallenweg
+Adolf-Kolping-Str.
+Elsa-Braendstroem-Str.
+Untere Dorfstr.
+Birkenallee
+Gaertnerstr.
+Hebelstr.
+Erich-Weinert-Str.
+Bonner Str.
+Rathenaustr.
+Sachsenstr.
+Riedstr.
+Johannisstr.
+Heckenweg
+Blumenweg
+Chausseestr.
+Albert-Einstein-Str.
+Laerchenstr.
+Neustaedter Str.
+Hainstr.
+Bergweg
+Liegnitzer Str.
+Hauffstr.
+Hannoversche Str.
+Marienburger Str.
+Im Grund
+Lilienthalstr.
+Sedanstr.
+Barbarastr.
+Heidelberger Str.
+Ziegeleistr.
+Kastanienstr.
+Kreisstr.
+Reichenberger Str.
+Markgrafenstr.
+Neugasse
+Bayernstr.
+Huegelstr.
+Hansastr.
+Herzogstr.
+Lahnstr.
+Eisenacher Str.
+Kirchberg
+Alexanderstr.
+Hardtstr.
+Gerberstr.
+Roonstr.
+Hohenstaufenstr.
+Pfarrstr.
+Zugspitzstr.
+Weimarer Str.
+Untergasse
+Herrenstr.
+Schweriner Str.
+Str. Der Freundschaft
+Auf Der Hoehe
+Woerthstr.
+Auenstr.
+Kolberger Str.
+Dorfplatz
+Am Wasserturm
+Hospitalstr.
+Deichstr.
+Oberdorf
+Hagener Str.
+Kirchenweg
+Rembrandtstr.
+Wasserstr.
+Robert-Bosch-Str.
+Hohlweg
+Sperberweg
+Hermann-Loens-Weg
+Obere Str.
+Talweg
+Zeisigweg
+Schwalbenstr.
+Siedlerweg
+Weingartenstr.
+Bussardweg
+Karlsruher Str.
+Bundesstr.
+Postweg
+Taubenstr.
+Bonhoefferstr.
+Kronenstr.
+Albrechtstr.
+Florastr.
+Elbestr.
+Foehrenweg
+Heilbronner Str.
+Neusser Str.
+Ulmer Str.
+Theresienstr.
+Kreuzweg
+Geibelstr.
+Obere Hauptstr.
+Huettenstr.
+Friedhofsweg
+Posener Str.
+Goerdelerstr.
+Albstr.
+Alpenstr.
+Antoniusstr.
+Dahlienstr.
+Hagenstr.
+Krefelder Str.
+Wormser Str.
+Peterstr.
+Osterstr.
+Eibenweg
+Margaretenstr.
+Haldenstr.
+Allensteiner Str.
+An Der Kirche
+Rathausplatz
+Hardenbergstr.
+Schlesische Str.
+Im Dorfe
+Anne-Frank-Str.
+Saarlandstr.
+Bamberger Str.
+Kreuzbergstr.
+Theodor-Koerner-Str.
+Ulrichstr.
+Sonnenhalde
+Wichernstr.
+Marburger Str.
+Am Bahndamm
+Forsthausstr.
+Vogelsangstr.
+Alter Weg
+Detmolder Str.
+Hoher Weg
+Untere Hauptstr.
+Windmuehlenstr.
+Im Bruehl
+Kornstr.
+Yorckstr.
+Melanchthonstr.
+Rolandstr.
+Triftweg
+Eifelstr.
+Platanenstr.
+Salzstr.
+Memeler Str.
+Bielefelder Str.
+Am Muehlenberg
+Bochumer Str.
+Ganghoferstr.
+Oldenburger Str.
+Hirschstr.
+Dorotheenstr.
+Holzstr.
+Westerwaldstr.
+Holzweg
+Neustadt
+Siedlungsweg
+Bachgasse
+Vogesenstr.
+Am Kirchberg
+Strassburger Str.
+Grundstr.
+Brunnengasse
+Kiefernstr.
+Am Weiher
+Landwehrstr.
+Schwabenstr.
+Bebelstr.
+Roemerweg
+Moorweg
+Hebbelstr.
+Tiergartenstr.
+Elbinger Str.
+Meisenstr.
+Eschenstr.
+Franz-Schubert-Str.
+Giessener Str.
+Waldenburger Str.
+Hermann-Hesse-Str.
+Stadtweg
+In Der Au
+Wittenberger Str.
+Albertstr.
+Gleiwitzer Str.
+Duisburger Str.
+Borngasse
+Zwickauer Str.
+Am Graben
+Rubensstr.
+Unterdorf
+Hildesheimer Str.
+Am Bach
+Bornstr.
+Toepferstr.
+Sportplatzstr.
+Jenaer Str.
+Berliner Allee
+Adolfstr.
+Unterdorfstr.
+Narzissenweg
+Schleissheimer Str.
+Hirtenweg
+Gruenewaldstr.
+Mathildenstr.
+Georgenstr.
+Gaussstr.
+Westfalenstr.
+Alte Schulstr.
+Kiebitzweg
+Rosenheimer Str.
+Breitscheidstr.
+Speyerer Str.
+Kelterstr.
+Breiter Weg
+Quellenweg
+Behringstr.
+Max-Eyth-Str.
+Parkweg
+Bergmannstr.
+Schlossbergstr.
+Kornblumenweg
+Baeckerstr.
+Mindener Str.
+Gotenstr.
+Carl-Von-Ossietzky-Str.
+Fuchsweg
+Am Wald
+Winkelstr.
+Rudolfstr.
+Stephanstr.
+Vogelsbergstr.
+Unterstr.
+Lueneburger Str.
+Venloer Str.
+Friedrich-List-Str.
+Olgastr.
+Gewerbestr.
+Weseler Str.
+Ernst-Reuter-Str.
+Buehlstr.
+Lenaustr.
+Kirchbergstr.
+Osnabruecker Str.
+Muehlbachstr.
+Schaeferstr.
+Am Ring
+Feuerbachstr.
+Johannes-R.-Becher-Str.
+Mecklenburger Str.
+Haldenweg
+Wiesbadener Str.
+Wilhelm-Raabe-Str.
+Braunschweiger Str.
+Stormstr.
+Walther-Rathenau-Str.
+Feldweg
+Franz-Mehring-Str.
+Ziegeleiweg
+Bruederstr.
+Limburger Str.
+Sommerstr.
+Buschstr.
+Bernhardstr.
+Am See
+Stralsunder Str.
+Kirchheimer Str.
+Luetzowstr.
+Ostendstr.
+Im Vogelsang
+Barbarossastr.
+Drosselstr.
+Sauerbruchstr.
+Elisabethenstr.
+Benzstr.
+Platanenweg
+Am Wiesengrund
+Bussardstr.
+Vogelsang
+Sperberstr.
+Schellingstr.
+Boehmerwaldstr.
+Hohlstr.
+Loensweg
+Muellerstr.
+Horster Str.
+Schlesienstr.
+Provinzialstr.
+Lange Gasse
+Droste-Huelshoff-Str.
+St.-Georg-Str.
+Max-Reger-Str.
+Hellweg
+Amalienstr.
+Lothringer Str.
+Ernst-Moritz-Arndt-Str.
+Cranachstr.
+Windmuehlenweg
+Heuweg
+Wittelsbacherstr.
+Brinkstr.
+Wiener Str.
+Freiburger Str.
+Mauerstr.
+Unter Den Eichen
+Hanauer Str.
+Am Park
+Essener Str.
+Karolingerstr.
+Schopenhauerstr.
+Lohstr.
+Puschkinstr.
+Goebenstr.
+Loensstr.
+Dortmunder Str.
+Hangstr.
+Stiftstr.
+Dessauer Str.
+Landshuter Str.
+Am Steinberg
+Duerener Str.
+Maxim-Gorki-Str.
+Buelowstr.
+Rilkestr.
+Quellenstr.
+Wittekindstr.
+Oranienstr.
+Maerkische Str.
+Alte Bahnhofstr.
+Schlossgasse
+Veilchenstr.
+Auweg
+Flensburger Str.
+Hinter Den Hoefen
+Hallesche Str.
+Helmholtzstr.
+Wingertstr.
+Ruhrstr.
+Memelstr.
+Tannenbergstr.
+Dorstener Str.
+Kellerstr.
+Isarstr.
+Weiherweg
+Baumgartenstr.
+Luxemburger Str.
+Am Teich
+Lindenplatz
+Lisztstr.
+Franzstr.
+Teckstr.
+Spitalstr.
+Ebertstr.
+Ludwig-Jahn-Str.
+Am Muehlberg
+Rudolf-Diesel-Str.
+Laurentiusstr.
+Hans-Thoma-Str.
+Spitzwegstr.
+Hubertusweg
+Erzbergerstr.
+Brueder-Grimm-Str.
+Dachauer Str.
+Reichsstr.
+Juelicher Str.
+Schulgasse
+Werner-Seelenbinder-Str.
+Schlesierweg
+Steingasse
+Seeweg
+Eberhardstr.
+Pommernweg
+Rueckertstr.
+Schwabstr.
+Untere Str.
+Roseggerstr.
+Glatzer Str.
+Michaelstr.
+Helenenstr.
+Buergerstr.
+Semmelweisstr.
+Hirtenstr.
+Gruene Str.
+Paulinenstr.
+Hedwigstr.
+Am Stadtpark
+Reichenbacher Str.
+Krankenhausstr.
+Urbanstr.
+Paracelsusstr.
+Neue Siedlung
+Bachweg
+Alte Heerstr.
+Muehlenberg
+Pappelstr.
+Anemonenweg
+Am Sandberg
+Gottfried-Keller-Str.
+Rothenburger Str.
+Ingolstaedter Str.
+Karolinenstr.
+Panoramaweg
+Hansjakobstr.
+Steubenstr.
+Hochfeldstr.
+Salzburger Str.
+Nikolausstr.
+Suederstr.
+Friedrich-Ludwig-Jahn-Str.
+Merowingerstr.
+Glueck-Auf-Str.
+Gladbacher Str.
+Andreasstr.
+Hopfenstr.
+Ringweg
+Rosengasse
+Pforzheimer Str.
+Prinzenstr.
+Ahornallee
+Schuetzenweg
+Klosterweg
+Adenauerstr.
+Am Muehlbach
+Bayreuther Str.
+Hufelandstr.
+St.-Martin-Str.
+Kemptener Str.
+Habichtstr.
+Paul-Gerhardt-Str.
+Richard-Strauss-Str.
+Teichweg
+Staufenstr.
+Anger
+Dammweg
+Flurweg
+Gorch-Fock-Str.
+Altenburger Str.
+Celler Str.
+Pappelallee
+Riedweg
+Sebastianstr.
+Wittener Str.
+Ohmstr.
+Asternstr.
+Johann-Strauss-Str.
+Friedrich-Naumann-Str.
+Rechbergstr.
+Rochusstr.
+Von-Galen-Str.
+Am Waldrand
+Unter Den Linden
+Foehrenstr.
+Egerlaender Str.
+Eichendorffweg
+Kronprinzenstr.
+Strandstr.
+Bruchweg
+Brentanostr.
+Paulstr.
+Greifswalder Str.
+Am Suedhang
+Frankenweg
+Egerlandstr.
+Bunsenstr.
+Dachsweg
+Hammer Str.
+Freiberger Str.
+Hochwaldstr.
+Germanenstr.
+Am Friedhof
+Augustenstr.
+Mendelssohnstr.
+Talblick
+Elsterweg
+Klopstockstr.
+Joseph-Haydn-Str.
+Eichenallee
+Muelheimer Str.
+Windthorststr.
+Gustav-Adolf-Str.
+Weissenburger Str.
+Krokusweg
+Diesterwegstr.
+Egerstr.
+Hinterstr.
+Edelweissstr.
+Angerweg
+Lange Reihe
+Schlossberg
+Dr.-Wilhelm-Kuelz-Str.
+Glueckaufstr.
+Turnerstr.
+Wendelsteinstr.
+Torstr.
+Glockenstr.
+Bluetenstr.
+Johanniterstr.
+Aschaffenburger Str.
+Klaus-Groth-Str.
+Bahnweg
+Am Steinbruch
+Landhausstr.
+Friedlandstr.
+Norderstr.
+Werkstr.
+Konradstr.
+Baumschulenweg
+Wehrstr.
+Taubenweg
+Inselstr.
+Faehrstr.
+Friedrich-Wilhelm-Str.
+Prager Str.
+Zollstr.
+Gluckstr.
+Merseburger Str.
+Langstr.
+Wilhelm-Pieck-Str.
+Leuschnerstr.
+Bertha-Von-Suttner-Str.
+Fuerther Str.
+Habichtweg
+Metzer Str.
+Faerberstr.
+Alte Hauptstr.
+Enzianstr.
+Ricarda-Huch-Str.
+Heimstr.
+Knappenstr.
+Kaiser-Friedrich-Str.
+Sanddornweg
+Auguststr.
+Moerser Str.
+Gellertstr.
+Naumburger Str.
+Florian-Geyer-Str.
+Schmiedgasse
+Landauer Str.
+Regerstr.
+Franz-Liszt-Str.
+Jaegerweg
+Ansbacher Str.
+Hinter Den Gaerten
+Tiroler Str.
+Tuebinger Str.
+Elsaesser Str.
+Moorstr.
+Eintrachtstr.
+Pariser Str.
+Krumme Str.
+Reuterstr.
+Fischergasse
+Haselweg
+Marderweg
+Sachsenring
+Hofer Str.
+Baustr.
+Karwendelstr.
+Im Tal
+Hessenstr.
+Welfenstr.
+Passauer Str.
+An Der Bahn
+Sonnenhang
+Am Wall
+Brahmsweg
+Eschstr.
+Marienplatz
+Richthofenstr.
+Am Galgenberg
+Sonnenbergstr.
+Maybachstr.
+Seilerstr.
+Herbststr.
+Bergheimer Str.
+Eckstr.
+Clemensstr.
+Geranienweg
+Julius-Leber-Str.
+Grubenstr.
+Neumarkt

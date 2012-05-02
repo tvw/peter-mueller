@@ -34,8 +34,8 @@ describe "STREETS" do
   
   it{ should be_a Array }
   its(:length){ should == 1000 }
-  its(:first){ should == "HAUPTSTR."}
-  its(:last){ should == "NEUMARKT"}
+  its(:first){ should == "Hauptstr."}
+  its(:last){ should == "Neumarkt"}
 end
 
 describe "TOWNS" do
