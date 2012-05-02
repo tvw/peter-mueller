@@ -1,9 +1,14 @@
 # -*- encoding: utf-8 -*-
 module PeterMueller
 
+  # Creates fictitious email address.
   class Email
-    attr_accessor :user, :host
+    # User-part of the address.
+    attr_accessor :user
+    # Host-part of the address.
+    attr_accessor :host
 
+    # Creates a new email address.
     def initialize(person = Person.new, owndomain = (rand(1..50) == 2))
       if owndomain
         @user = [
@@ -27,11 +32,12 @@ module PeterMueller
       end
     end
 
+    # Returns the string representation of the email address.
     def to_s
       "#{@user}@#{@host}"
     end
 
-    def self.umlautfix(str)
+    def self.umlautfix(str) #:nodoc:
       str.
         gsub("ä","ae").
         gsub("ö","oe").

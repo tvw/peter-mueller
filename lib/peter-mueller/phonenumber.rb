@@ -1,13 +1,19 @@
 module PeterMueller
 
+  # A fictitious phonenumber.
   class Phonenumber
-    attr_accessor :number, :extension
+    # The number without prefix and extension.
+    attr_accessor :number
+    # The extension, when the number has an extension. In the context of a Company numbers
+    # can have an extension.
+    attr_accessor :extension
 
-    # Returns a mobile phonenumber.
+    # Returns a mobile Phonenumber.
     def self.mobile
       Phonenumber.new MOBILE_PREFIXES.sample
     end
 
+    # Creates a new Phonenumber.
     def initialize(prefix = Address.new.phone_prefix, number = nil, extension = nil)
       @prefix = prefix.gsub(/\A0/,"")
 

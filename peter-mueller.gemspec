@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.authors = ["Thomas Volkmar Worm"]
   s.email = ["tvw@s4r.de"]
   s.homepage = "https://github.com/tvw/peter-mueller"
-  s.summary = %q{A library for creating real looking but dummy German address data.}
-  s.description = %q{A library for creating dummy German address data.
-                     The addresses look real, though they are pure random and fictitious.}
+  s.summary = %q{A library for creating real looking but fictitious German address data.}
+  s.description = %q{A library for creating fictitious German address data.
+                     The addresses look real, though they are of pure random and fictitious origin.}
 
   s.rubyforge_project = "peter-mueller"
   s.files = Dir["lib/**/*"] + ["Rakefile", "README.rdoc"]

@@ -2,6 +2,6 @@
 .gem
 .bundle
 .rvmrc
-pkg
-rdoc
+/pkg
+/rdoc
 /data
