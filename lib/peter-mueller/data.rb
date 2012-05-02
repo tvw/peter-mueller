@@ -7,6 +7,7 @@ module PeterMueller
   MOBILE_PREFIXES = []
   FREEMAIL_PROVIDER = []
   TLD = ["de", "com", "net", "org", "biz", "info", "name"]
+  FORM_OF_ORGANISATION = ['AG', 'GmbH', 'oHG', 'KG', 'GbR']
 
   def self.loaddata(konst, filename)
     fullpath = File.join(File.dirname(__FILE__), "data", filename)

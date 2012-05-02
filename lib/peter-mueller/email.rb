@@ -31,25 +31,7 @@ module PeterMueller
       "#{@user}@#{@host}"
     end
 
-    private
-    def user_from_names(person, sepchar=["","_","."].sample)
-      part1 = umlautfix(person.firstname).gsub(/[^a-zA-Z]/,"").downcase
-      part2 = umlautfix(person.lastname).gsub(/[^a-zA-Z]/,"").downcase
-      "#{part1}#{sepchar}#{part2}"
-    end
-
-    def user_from_firstname(person, number = rand(1..9999).to_s)
-      part = umlautfix(person.firstname).gsub(/[^a-zA-Z]/,"").downcase
-      "#{part}#{number}"
-    end
-
-    def user_from_initials(person, number = rand(1..9999).to_s)
-      part1 = umlautfix(person.firstname).gsub(/[^a-zA-Z]/,"").downcase
-      part2 = umlautfix(person.lastname).gsub(/[^a-zA-Z]/,"").downcase
-      "#{part1[0]}#{part2[0]}#{number}"
-    end
-
-    def umlautfix(str)
+    def self.umlautfix(str)
       str.
         gsub("ä","ae").
         gsub("ö","oe").
@@ -58,6 +40,24 @@ module PeterMueller
         gsub("Ö","Oe").
         gsub("Ü","Ue").
         gsub("ß","ss")
+    end
+
+    private
+    def user_from_names(person, sepchar=["","_","."].sample)
+      part1 = self.class.umlautfix(person.firstname).gsub(/[^a-zA-Z]/,"").downcase
+      part2 = self.class.umlautfix(person.lastname).gsub(/[^a-zA-Z]/,"").downcase
+      "#{part1}#{sepchar}#{part2}"
+    end
+
+    def user_from_firstname(person, number = rand(1..9999).to_s)
+      part = self.class.umlautfix(person.firstname).gsub(/[^a-zA-Z]/,"").downcase
+      "#{part}#{number}"
+    end
+
+    def user_from_initials(person, number = rand(1..9999).to_s)
+      part1 = self.class.umlautfix(person.firstname).gsub(/[^a-zA-Z]/,"").downcase
+      part2 = self.class.umlautfix(person.lastname).gsub(/[^a-zA-Z]/,"").downcase
+      "#{part1[0]}#{part2[0]}#{number}"
     end
 
   end

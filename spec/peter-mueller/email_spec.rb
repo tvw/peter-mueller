@@ -17,15 +17,15 @@ describe Email do
 
   describe "#umlautfix" do
     it "should replace umlaute properly" do
-      subject.send(:umlautfix, "ä").should == "ae"
-      subject.send(:umlautfix, "ö").should == "oe"
-      subject.send(:umlautfix, "ü").should == "ue"
-      subject.send(:umlautfix, "Ä").should == "Ae"
-      subject.send(:umlautfix, "Ö").should == "Oe"
-      subject.send(:umlautfix, "Ü").should == "Ue"
-      subject.send(:umlautfix, "ß").should == "ss"
+      subject.class.send(:umlautfix, "ä").should == "ae"
+      subject.class.send(:umlautfix, "ö").should == "oe"
+      subject.class.send(:umlautfix, "ü").should == "ue"
+      subject.class.send(:umlautfix, "Ä").should == "Ae"
+      subject.class.send(:umlautfix, "Ö").should == "Oe"
+      subject.class.send(:umlautfix, "Ü").should == "Ue"
+      subject.class.send(:umlautfix, "ß").should == "ss"
 
-      subject.send(:umlautfix, "Äötiß").should == "Aeoetiss"
+      subject.class.send(:umlautfix, "Äötiß").should == "Aeoetiss"
     end
   end
 
