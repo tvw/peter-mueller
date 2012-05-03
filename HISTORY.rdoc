@@ -1,0 +1,7 @@
+== Version 1.0.1 - 3-MAY-2012
+
+* new methods Company#name= and Company#domain=
+
+== Version 1.0.0 - 3-MAY-2012
+
+Published the gem for the first time.

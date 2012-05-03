@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
                      The addresses look real, though they are of pure random and fictitious origin.}
 
   s.rubyforge_project = "peter-mueller"
-  s.files = Dir["lib/**/*"] + ["Rakefile", "README.rdoc"]
+  s.files = Dir["lib/**/*"] + ["Rakefile", "README.rdoc", "HISTORY.rdoc"]
   s.test_files = `git ls-files -- {test,spec,features}/*`.split("\n")
   s.executables = `git ls-files -- bin/*`.split("\n").map{ |f| File.basename(f) }
   s.require_paths = ["lib"]
