@@ -85,4 +85,23 @@ describe Company do
 
   end
 
+  describe "Company#domain=" do
+    before do
+      subject.domain = "example.com"
+    end
+
+    its(:domain){ should == "example.com"}
+    its(:www){ should == "www.example.com"}
+    its("email.host"){ should == "example.com"}
+    its("employee.office_email.host"){ should == "example.com"}
+  end
+
+  describe "Company#name=" do
+    before do
+      subject.name = "Hans Durst AG"
+    end
+
+    its(:name){ should == "Hans Durst AG"}
+  end
+
 end

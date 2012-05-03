@@ -17,10 +17,6 @@ module PeterMueller
     attr_reader :phonenumber
     # The second level domain of the company for generating internet addresses.
     attr_reader :domain
-    # The Email of the company.
-    attr_reader :email
-    # The World-Wide-Web-address of the company.
-    attr_reader :www
 
     # Creates a new company.
     def initialize
@@ -29,11 +25,31 @@ module PeterMueller
       @phonenumber = Phonenumber.new(@address.phone_prefix)
       @phonenumber.extension = "0"
       @domain = domain_from_name(@name)
-      @email = Email.new
-      @email.host = domain
-      @email.user = "info"
-      @www = "www.#{@domain}"
       @last_ext = 99
+    end
+
+    # Sets the company name and creates u suitable domain.
+    def name=(str)
+      @name = str
+      @domain = domain_from_name(@name)
+    end
+
+    # The Email of the company.
+    def email
+      em = Email.new
+      em.host = domain
+      em.user = "info"
+      em
+    end
+
+    # The World-Wide-Web-address of the company.
+    def www
+      "www.#{domain}"
+    end
+
+    # Sets the second level domain of the company.
+    def domain=(str)
+      @domain = str
     end
 
     # Creates and returns a new employee.
