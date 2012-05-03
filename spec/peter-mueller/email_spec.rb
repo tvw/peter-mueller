@@ -29,23 +29,23 @@ describe Email do
     end
   end
 
-  describe "#user_from_names" do
+  describe ".user_from_names" do
     it "should return a username" do
-      subject.send(:user_from_names, @person, "").should == "petermueller"
-      subject.send(:user_from_names, @person, "_").should == "peter_mueller"
-      subject.send(:user_from_names, @person, ".").should == "peter.mueller"
+      subject.user_from_names(@person, "").should == "petermueller"
+      subject.user_from_names(@person, "_").should == "peter_mueller"
+      subject.user_from_names(@person, ".").should == "peter.mueller"
     end
   end
 
-  describe "#user_from_firstname" do
+  describe ".user_from_firstname" do
     it "should return a username" do
-      subject.send(:user_from_firstname, @person, 12).should == "peter12"
+      subject.user_from_firstname(@person, 12).should == "peter12"
     end
   end
 
   describe "#user_from_initials" do
     it "should return a username" do
-      subject.send(:user_from_initials, @person, 333).should == "pm333"
+      subject.user_from_initials(@person, 333).should == "pm333"
     end
   end
 

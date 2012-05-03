@@ -1,3 +1,8 @@
+== Version 1.0.2 - 4-MAY-2012
+
+* some new methods for creating Email#user.
+* Company#employee now creates the Email#user according to a typical schema.
+
 == Version 1.0.1 - 3-MAY-2012
 
 * new methods Company#name= and Company#domain=

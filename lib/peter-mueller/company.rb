@@ -58,6 +58,7 @@ module PeterMueller
       p = Person.new
       p.office_phonenumber = Phonenumber.new(@phonenumber.prefix, phonenumber.number, @last_ext.to_s)
       p.office_email = Email.new(p)
+      p.office_email.user_from_names(p, ".")
       p.office_email.host = @domain
       p
     end
